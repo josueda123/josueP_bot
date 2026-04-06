@@ -1,4 +1,4 @@
-app = 'josueP_bot'
+app = 'josuep-bot'
 primary_region = 'iad'
 
 [build]
